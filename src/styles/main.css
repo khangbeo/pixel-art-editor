@@ -222,7 +222,7 @@ input[type="range"] {
     max-width: 300px;
     height: 8px;
     border-radius: 4px;
-    background: var(--background-color);
+    background: var(--secondary-color);
     outline: none;
 }
 
